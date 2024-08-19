@@ -1,0 +1,129 @@
+.maincoffee{
+    display: flex;
+    flex-direction: row;
+    padding-inline-start: 20px;
+    padding: auto;
+}
+.card{
+    margin: auto;
+    
+}
+.background{
+    background-image: url(coffeee\ beans.avif);
+    object-fit: cover;
+    height: 500px;
+    width: 100%;
+    margin-top: 90px;
+
+}
+.dark{
+    font-style: italic;
+    
+
+}
+.main_gallery{
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  padding: auto;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 20px;
+
+}
+.gallery {
+    margin-top: 80px;
+    border: 1px solid #ccc;
+    width: 180px;
+    margin: auto;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  .second_gallery{
+    display: flex;
+    flex-direction: row;
+    padding: auto;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  div.secondgallery {
+    margin: 1px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    margin: auto;
+    padding-top: 10px;
+  }
+  
+  div.secondgallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.secondgallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+  .foot{
+    border-color: white;
+    color: azure;
+    text-align: center;
+  
+
+  }
+  span{
+    display: block;
+  }
+  .click{
+    padding-top: 10px;
+  }
+  stop{
+    display: block;
+  }
+  line{
+    text-decoration: underline;
+  }
+  .secondfoot{
+    flex-direction: row;
+    padding-left: 30px;
+    text-align: center;
+    padding-top: 40px;
+  }
+
+  footer{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+  }
+  .thirdfoot{
+    padding-left: 150px;
+    padding-top: 50px;
+  }
+  .fourfoot{
+    padding-left: 150px;
+    padding-top: 80px;
+  }
+
+
+
+
+    
+
